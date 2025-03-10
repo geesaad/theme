@@ -1,11 +1,21 @@
+/**
+ * @name Solo leveling v2, red version
+ * @author Request
+ * @version auto updates
+ * @description Theme was created in generator https://vsthemes.org/generator/
+ * @source https://vsthemes.org/en/skins/discord/36574-20_solo-level_20.html
+ * @authorLink https://vsthemes.org/user/Request/
+ * @authorId 2
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
 :root {
-    --transparencycolor: 0,0,0;
-    --transparencyalpha: 0.6;
-    --messagetransparency: 0.35;
+    --transparencycolor: 13,1,0;
+    --transparencyalpha: 0.2;
+    --messagetransparency: 0.5;
     --guildchanneltransparency: 0.2;
     --memberlistransparency: 0;
-    --accentcolor: ;
-    --background: url("https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/11/solo-leveling-shadow-army.jpg");
+    --accentcolor: 117,23,14;
+    --background: url("https://vsthemes.org/uploads/posts/2021-08/1628526763_thumb-1920-1066533.webp");
     --backdrop: rgba(0,0,0,0.2);
     --backgroundblur: 0px;
     --popoutblur: 0px;
